@@ -2,7 +2,7 @@
 - Si gustas una Dona? (º▽ºʃ🍩ƪ)
 
 ## 👀 Sobre mí  
-Apasionada por el desarrollo de software, especialmente el **desarrollo backend**. Me gusta resolver problemas, optimizar sistemas y trabajar con bases de datos. Generalmente me encuentro enriqueciendo mis conocimientos realizando cursos en linea en UDEMY, ALLURA, INFOTEP, entre otros. Te invito a ver varios de mis proyectos, estan aqui en Github.
+Apasionada por el desarrollo de software, especialmente el **desarrollo backend**. Me gusta resolver problemas, optimizar sistemas y trabajar con bases de datos. Generalmente me encuentro enriqueciendo mis conocimientos realizando cursos en linea en UDEMY, ALURA, entre otros. Te invito a ver varios de mis proyectos, estan aqui en Github.
 
 ## 🌱 Actualmente aprendiendo  
 - **C#** para desarrollo de aplicaciones  
