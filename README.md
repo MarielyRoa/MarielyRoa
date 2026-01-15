@@ -2,16 +2,18 @@
 - Si gustas una Dona? (º▽ºʃ🍩ƪ)
 
 ## 👀 Sobre mí  
-Apasionada por el desarrollo de software, especialmente el **desarrollo backend**. Me gusta resolver problemas, optimizar sistemas y trabajar con bases de datos. Generalmente me encuentro enriqueciendo mis conocimientos realizando cursos en linea en UDEMY, ALURA, entre otros. Te invito a ver varios de mis proyectos, estan aqui en Github.
+Apasionada por el desarrollo de software, especialmente el **Backend**. Me gusta resolver problemas, optimizar sistemas y trabajar con bases de datos. Generalmente me encuentro enriqueciendo mis conocimientos realizando cursos en linea en UDEMY, ALURA, entre otros. Te invito a ver varios de mis proyectos, estan aqui en Github.
 
 ## 🌱 Actualmente aprendiendo  
-- **C#** para desarrollo de aplicaciones  
-- **Diseño de bases de datos** para diferentes sistemas  
+- **C#** 
+- **Diseño de bases de datos** 
 - **Java**
-- **C++** Me encanta este Lenguaje 😍
+- **C++**
+- **Analisis de Datos**
 
 ## Estudios 📖📚📃
 - **Desarrollo de software en el ITLA**
+- **Licenciatura en Informatica(UASD)**
 - **OTROS CURSOS**
 
 ## 🧠 Busco colaborar en  
@@ -21,6 +23,3 @@ Estoy abierta a colaborar en **proyectos backend, optimización de bases de dato
 - GitHub: [MarielyRoa](https://github.com/MarielyRoa)  
 - LinkedIn: [Mariely Roa](https://www.linkedin.com/in/mariely-roa-3639b4345/)
 - Correo electrónico: [marielyroa6@gmail.com]
-
-## ⚡ Dato curioso  
-Tengo un gato llamado **Chris**, y una gatita llamada **Sydney**, si me das empleo ellos estaran alegres porque tendran comida de la mejor calidad. 🐱💙  
