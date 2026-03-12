@@ -21,5 +21,5 @@ Estoy abierta a colaborar en **proyectos backend, optimización de bases de dato
 
 ## 📫 Cómo contactarme  
 - GitHub: [MarielyRoa](https://github.com/MarielyRoa)  
-- LinkedIn: [Mariely Roa](https://www.linkedin.com/in/mariely-roa-3639b4345/)
+- LinkedIn: [Mariely Roa](https://www.linkedin.com/in/mariely-g-roa-baez-3639b4345/)
 - Correo electrónico: [marielyroa6@gmail.com]
