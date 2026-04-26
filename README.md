@@ -9,7 +9,7 @@ Apasionada por el desarrollo de software, especialmente el **Backend**. Me gusta
 - **Diseño de bases de datos** 
 - **Java**
 - **C++**
-- **Analisis de Datos**
+- **Arquitectura de Software**
 
 ## Estudios 📖📚📃
 - **Desarrollo de software en el ITLA**
