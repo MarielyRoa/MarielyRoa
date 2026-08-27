@@ -7,7 +7,7 @@
 
 Soy desarrolladora de software enfocada principalmente en **Backend**, con interés en crear aplicaciones, APIs y soluciones que resuelvan problemas reales.
 
-Me gusta trabajar con **C#, .NET, bases de datos, APIs REST y arquitectura de software**, además de explorar tecnologías como Java, Python, React, Node.js, Docker y Cloud.
+Me gusta trabajar con **C#, .NET, bases de datos, APIs REST y arquitectura de software**, además de explorar tecnologías como Java, Python, React, Node.js.
 
 Actualmente continúo fortaleciendo mis conocimientos mediante proyectos prácticos, cursos y certificaciones.
 
